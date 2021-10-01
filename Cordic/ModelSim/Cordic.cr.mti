@@ -1,0 +1,76 @@
+//Mac/Home/Desktop/Cordic_FINAL/hdl/tb/Cordic_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Desktop/Cordic_FINAL/hdl/tb/Cordic_tb.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Cordic_tb
+-- Compiling architecture test of Cordic_tb
+
+} {} {}} //Mac/Home/Desktop/Cordic_FINAL/hdl/src/FullAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Desktop/Cordic_FINAL/hdl/src/FullAdder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FullAdder
+-- Compiling architecture rtl of FullAdder
+
+} {} {}} //Mac/Home/Desktop/Cordic_FINAL/hdl/src/Cordic.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Desktop/Cordic_FINAL/hdl/src/Cordic.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Cordic
+-- Compiling architecture rtl of CORDIC
+
+} {} {}} //Mac/Home/Desktop/Cordic_FINAL/hdl/src/barrel_shifter.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Desktop/Cordic_FINAL/hdl/src/barrel_shifter.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity barrel_shifter
+-- Compiling architecture rtl of barrel_shifter
+
+} {} {}} //Mac/Home/Desktop/Cordic_FINAL/hdl/src/adder.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Desktop/Cordic_FINAL/hdl/src/adder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity adder
+-- Compiling architecture rtl of adder
+
+} {} {}} //Mac/Home/Desktop/Cordic_FINAL/hdl/src/RippleCarryAdder.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Desktop/Cordic_FINAL/hdl/src/RippleCarryAdder.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity RippleCarryAdder
+-- Compiling architecture rtl of RippleCarryAdder
+
+} {} {}} //Mac/Home/Desktop/Cordic_FINAL/hdl/src/inv.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Desktop/Cordic_FINAL/hdl/src/inv.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity inv
+-- Compiling architecture rtl of inv
+
+} {} {}} //Mac/Home/Desktop/Cordic_FINAL/hdl/src/dff_N.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Desktop/Cordic_FINAL/hdl/src/dff_N.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DFF_N
+-- Compiling architecture rtl of DFF_N
+
+} {} {}} //Mac/Home/Desktop/Cordic_FINAL/hdl/src/rom.vhd {1 {vcom -work work -2002 -explicit -stats=none //Mac/Home/Desktop/Cordic_FINAL/hdl/src/rom.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity rom_8x12
+-- Compiling architecture rtl of rom_8x12
+
+} {} {}}

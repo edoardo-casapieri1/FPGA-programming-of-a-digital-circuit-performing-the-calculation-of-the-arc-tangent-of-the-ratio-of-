@@ -1,0 +1,367 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eadder
+Z0 w1578656826
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 d//Mac/Home/Desktop/Cordic_FINAL/ModelSim
+Z4 8//Mac/Home/Desktop/Cordic_FINAL/hdl/src/adder.vhd
+Z5 F//Mac/Home/Desktop/Cordic_FINAL/hdl/src/adder.vhd
+l0
+L4
+VE07Hb2SKoK46FhimG7Ym23
+!s100 3KcZkg8jHR?lXLLbdMR^_1
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1578905826
+!i10b 1
+Z8 !s108 1578905826.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Desktop/Cordic_FINAL/hdl/src/adder.vhd|
+Z10 !s107 //Mac/Home/Desktop/Cordic_FINAL/hdl/src/adder.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Artl
+R1
+R2
+DEx4 work 5 adder 0 22 E07Hb2SKoK46FhimG7Ym23
+l47
+L17
+VZ]1J7E53=k24[0Hz>m?4[1
+!s100 1CI<3Rf7nP[5oAMdKlD?l2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebarrel_shifter
+Z13 w1578590218
+R1
+R2
+R3
+Z14 8//Mac/Home/Desktop/Cordic_FINAL/hdl/src/barrel_shifter.vhd
+Z15 F//Mac/Home/Desktop/Cordic_FINAL/hdl/src/barrel_shifter.vhd
+l0
+L4
+V@05<Ojn24C3HWAEgb@WzL3
+!s100 ?@MFOTX<TN6T16=iK2Wei2
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Desktop/Cordic_FINAL/hdl/src/barrel_shifter.vhd|
+Z17 !s107 //Mac/Home/Desktop/Cordic_FINAL/hdl/src/barrel_shifter.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+DEx4 work 14 barrel_shifter 0 22 @05<Ojn24C3HWAEgb@WzL3
+l15
+L13
+VmT<d<efX4>_h:[GR=o8l90
+!s100 Ie8g=X<jSMzNi6LoK^?NJ0
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Ecordic
+Z18 w1578767823
+Z19 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z20 8//Mac/Home/Desktop/Cordic_FINAL/hdl/src/Cordic.vhd
+Z21 F//Mac/Home/Desktop/Cordic_FINAL/hdl/src/Cordic.vhd
+l0
+L5
+V[WH@0UTfYNO4nhUE>2`MM2
+!s100 zQPd;3[;>IdBCXB2^27fg1
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Desktop/Cordic_FINAL/hdl/src/Cordic.vhd|
+Z23 !s107 //Mac/Home/Desktop/Cordic_FINAL/hdl/src/Cordic.vhd|
+!i113 1
+R11
+R12
+Artl
+R19
+R1
+R2
+DEx4 work 6 cordic 0 22 [WH@0UTfYNO4nhUE>2`MM2
+l95
+L15
+V<4h?l34=VfidA4^D<O_3N2
+!s100 2oZAgmh0YYDUK21oY6]d00
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Ecordic_tb
+Z24 w1578906076
+R1
+R2
+R3
+Z25 8//Mac/Home/Desktop/Cordic_FINAL/hdl/tb/Cordic_tb.vhd
+Z26 F//Mac/Home/Desktop/Cordic_FINAL/hdl/tb/Cordic_tb.vhd
+l0
+L4
+VWC5fIZ1E8F23HNQKo^Ac61
+!s100 H6cG^PU66Aj4WUeinFAlI2
+R6
+32
+Z27 !s110 1578906082
+!i10b 1
+Z28 !s108 1578906082.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Desktop/Cordic_FINAL/hdl/tb/Cordic_tb.vhd|
+Z30 !s107 //Mac/Home/Desktop/Cordic_FINAL/hdl/tb/Cordic_tb.vhd|
+!i113 1
+R11
+R12
+Atest
+R1
+R2
+Z31 DEx4 work 9 cordic_tb 0 22 WC5fIZ1E8F23HNQKo^Ac61
+l32
+L7
+VbXFn?d]B>USzncW;S1SiG2
+!s100 Dng_UNRPNaoTO5FGMm:Wi3
+R6
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R11
+R12
+Edff_n
+Z32 w1578595413
+R1
+R2
+R3
+Z33 8//Mac/Home/Desktop/Cordic_FINAL/hdl/src/dff_N.vhd
+Z34 F//Mac/Home/Desktop/Cordic_FINAL/hdl/src/dff_N.vhd
+l0
+L4
+VOI@mPejz32[F[R]2_<JM@1
+!s100 8gmf0DLGnbO_f:CTVkUC^0
+R6
+32
+R7
+!i10b 1
+R8
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Desktop/Cordic_FINAL/hdl/src/dff_N.vhd|
+Z36 !s107 //Mac/Home/Desktop/Cordic_FINAL/hdl/src/dff_N.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+DEx4 work 5 dff_n 0 22 OI@mPejz32[F[R]2_<JM@1
+l16
+L15
+V3PXm[o0GmW^hj0@Y=<E?M3
+!s100 2d3kC0PMRP6^ma@;VBk@U1
+R6
+32
+R7
+!i10b 1
+R8
+R35
+R36
+!i113 1
+R11
+R12
+Efulladder
+Z37 w1577961106
+R1
+R2
+R3
+Z38 8//Mac/Home/Desktop/Cordic_FINAL/hdl/src/FullAdder.vhd
+Z39 F//Mac/Home/Desktop/Cordic_FINAL/hdl/src/FullAdder.vhd
+l0
+L4
+V96nQ;hU4SbVEhTC2EV<h92
+!s100 EBPK7m_jnZD@nTUgiK0?Z0
+R6
+32
+R7
+!i10b 1
+R8
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Desktop/Cordic_FINAL/hdl/src/FullAdder.vhd|
+Z41 !s107 //Mac/Home/Desktop/Cordic_FINAL/hdl/src/FullAdder.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+DEx4 work 9 fulladder 0 22 96nQ;hU4SbVEhTC2EV<h92
+l15
+L14
+VOIYeEicbiFCca6?gbS7RV1
+!s100 _4N^koERF_DNYTKR@7b:^2
+R6
+32
+R7
+!i10b 1
+R8
+R40
+R41
+!i113 1
+R11
+R12
+Einv
+Z42 w1578656435
+R19
+R1
+R2
+R3
+Z43 8//Mac/Home/Desktop/Cordic_FINAL/hdl/src/inv.vhd
+Z44 F//Mac/Home/Desktop/Cordic_FINAL/hdl/src/inv.vhd
+l0
+L5
+V5NB3KbT>Q7b:]XhkMF:mC1
+!s100 cLCAglBhA`gg]]dYYghHS2
+R6
+32
+R7
+!i10b 1
+R8
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Desktop/Cordic_FINAL/hdl/src/inv.vhd|
+Z46 !s107 //Mac/Home/Desktop/Cordic_FINAL/hdl/src/inv.vhd|
+!i113 1
+R11
+R12
+Artl
+R19
+R1
+R2
+DEx4 work 3 inv 0 22 5NB3KbT>Q7b:]XhkMF:mC1
+l15
+L14
+VIM1HlGh0Ol5FljdQI@m012
+!s100 0U_mAjJ3N;I=k2<c27NQN3
+R6
+32
+R7
+!i10b 1
+R8
+R45
+R46
+!i113 1
+R11
+R12
+Eripplecarryadder
+Z47 w1578607737
+R1
+R2
+R3
+Z48 8//Mac/Home/Desktop/Cordic_FINAL/hdl/src/RippleCarryAdder.vhd
+Z49 F//Mac/Home/Desktop/Cordic_FINAL/hdl/src/RippleCarryAdder.vhd
+l0
+L4
+V=zc];akP9IYX83mF;zYhk2
+!s100 E73aUb0mfX8aEnR=7DMI51
+R6
+32
+R7
+!i10b 1
+R8
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Desktop/Cordic_FINAL/hdl/src/RippleCarryAdder.vhd|
+Z51 !s107 //Mac/Home/Desktop/Cordic_FINAL/hdl/src/RippleCarryAdder.vhd|
+!i113 1
+R11
+R12
+Artl
+R1
+R2
+DEx4 work 16 ripplecarryadder 0 22 =zc];akP9IYX83mF;zYhk2
+l28
+L15
+VR0_3T94hLY=<Z`hR[jm9o3
+!s100 b0n8nig9`dB43EPXeTW1e3
+R6
+32
+R7
+!i10b 1
+R8
+R50
+R51
+!i113 1
+R11
+R12
+Erom_8x12
+Z52 w1578590115
+R19
+R1
+R2
+R3
+Z53 8//Mac/Home/Desktop/Cordic_FINAL/hdl/src/rom.vhd
+Z54 F//Mac/Home/Desktop/Cordic_FINAL/hdl/src/rom.vhd
+l0
+L5
+V9RU8i]kG9>LCXYS9MNOoa3
+!s100 2G[7o6m2^>:XO2aEi]^Ha1
+R6
+32
+R7
+!i10b 1
+Z55 !s108 1578905825.000000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|//Mac/Home/Desktop/Cordic_FINAL/hdl/src/rom.vhd|
+Z57 !s107 //Mac/Home/Desktop/Cordic_FINAL/hdl/src/rom.vhd|
+!i113 1
+R11
+R12
+Artl
+R19
+R1
+R2
+DEx4 work 8 rom_8x12 0 22 9RU8i]kG9>LCXYS9MNOoa3
+l26
+L12
+ViFiC[`:7ZY9>C2^gcJRbT1
+!s100 _Q]NO6N<h=>hIe7jIz1PX3
+R6
+32
+R7
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R11
+R12
